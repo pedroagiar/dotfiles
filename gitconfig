@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pedroaguiar.edu@gmail.com
+	name = Pedro Aguiar
